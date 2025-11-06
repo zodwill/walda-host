@@ -63,7 +63,7 @@ const Hackathon = () => {
             variant="h6"
             sx={{ color: "#FFD700", fontWeight: "bold", mb: 2 }}
           >
-            Date: 18th – 19th December, 2025 | Location: IIIT JABALPUR, Jabalpur
+            Date: 18th – 19th December, 2025 | Location: PDPM IIITDM JABALPUR
             , MP
           </Typography>
           <Typography
@@ -227,7 +227,7 @@ const Hackathon = () => {
                     component="a"
                     href="https://injectsolar.com/"
                   >
-                    Inject Solar LLP
+                    <h1 style={{fontSize: 25}}  >Inject Solar LLP</h1>
                   </Typography>
                 </Grid>
               )
