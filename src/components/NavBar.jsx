@@ -41,13 +41,14 @@ function ResponsiveAppBar() {
   const [paperMenuAnchor, setPaperMenuAnchor] = useState(null);
   const [pages, setPages] = useState([
     "About",
+    "Hackathon",
     "Schedule",
     "Speakers",
     "Acknowledgments",
     "Nearest-Attractions",
     "Paper Submissions",
     "Accommodation",
-    "Hackathon",
+    
   ]);
   const [anchorElNav, setAnchorElNav] = React.useState(null);
   const [anchorElUser, setAnchorElUser] = React.useState(null);
